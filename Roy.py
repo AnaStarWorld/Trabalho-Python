@@ -17,7 +17,7 @@ def sonic_flamenguista():
         if event == sg.WIN_CLOSED or event == 'Cancel':
             break
 
-        print('Hello', values[0], '!')
+        print('Hello', values[0], '!')s
 
     window.close()
 
