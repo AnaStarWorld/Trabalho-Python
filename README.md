@@ -10,4 +10,4 @@
 
 Seguem com uma Pré-visualização abaixo:
 
-<img src="" atl="" style="width:1150px:">
+<img src="https://github.com/AnaStarWorld/Trabalho-Python/blob/main/Capturar.PNG" atl="" style="width:1150px:">
